@@ -113,8 +113,8 @@ Ce projet est un bon support de candidature en Data Science / Intelligence Artif
 ### Installation :
 
 ```bash
-git clone https://github.com/kawtarboughal02/Projet1_Analyse_Prédictive_des_Données_Économiques_du_Maroc.git
-cd Projet1_Analyse_Prédictive_des_Données_Économiques_du_Maroc
+git clone https://github.com/kawtarboughal02/Projet1_Analyse_Predictive_des_Donnees_Economiques_du_Maroc.git
+cd Projet1_Analyse_Predictive_des_Donnees_Economiques_du_Maroc
 python -m venv venv
 source venv/bin/activate   # Windows : venv\Scripts\activate
 pip install -r requirements.txt
@@ -209,8 +209,8 @@ This project is a solid portfolio piece for Data Science / AI applications, when
 ### Setup :
 
 ```bash
-git clone https://github.com/kawtarboughal02/Projet1_Analyse_Prédictive_des_Données_Économiques_du_Maroc.git
-cd Projet1_Analyse_Prédictive_des_Données_Économiques_du_Maroc
+git clone https://github.com/kawtarboughal02/Projet1_Analyse_Predictive_des_Donnees_Economiques_du_Maroc.git
+cd Projet1_Analyse_Predictive_des_Donnees_Economiques_du_Maroc
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
